@@ -1,0 +1,11 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "customer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.1",
+    "mysql": "^2.13.0"
+  }
+}
